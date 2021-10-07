@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestCaseConsoleApplication/1.0.0": {
+        "dependencies": {
+          "TestCase.Business": "1.0.0",
+          "TestCase.Model": "1.0.0"
+        },
+        "runtime": {
+          "TestCaseConsoleApplication.dll": {}
+        }
+      },
+      "TestCase.Business/1.0.0": {
+        "dependencies": {
+          "TestCase.Model": "1.0.0",
+          "TestCase.RepositoryData": "1.0.0"
+        },
+        "runtime": {
+          "TestCase.Business.dll": {}
+        }
+      },
+      "TestCase.Model/1.0.0": {
+        "runtime": {
+          "TestCase.Model.dll": {}
+        }
+      },
+      "TestCase.RepositoryData/1.0.0": {
+        "dependencies": {
+          "TestCase.Model": "1.0.0"
+        },
+        "runtime": {
+          "TestCase.RepositoryData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestCaseConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestCase.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestCase.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestCase.RepositoryData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

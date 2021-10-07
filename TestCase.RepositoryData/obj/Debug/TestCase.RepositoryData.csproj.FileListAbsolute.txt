@@ -1,0 +1,10 @@
+C:\TestCase\TestCase.RepositoryData\bin\Debug\TestCase.RepositoryData.dll.config
+C:\TestCase\TestCase.RepositoryData\bin\Debug\TestCase.RepositoryData.dll
+C:\TestCase\TestCase.RepositoryData\bin\Debug\TestCase.RepositoryData.pdb
+C:\TestCase\TestCase.RepositoryData\obj\Debug\TestCase.RepositoryData.csproj.CoreCompileInputs.cache
+C:\TestCase\TestCase.RepositoryData\obj\Debug\TestCase.RepositoryData.dll
+C:\TestCase\TestCase.RepositoryData\obj\Debug\TestCase.RepositoryData.pdb
+C:\TestCase\TestCase.RepositoryData\obj\Debug\TestCase.RepositoryData.csproj.AssemblyReference.cache
+C:\TestCase\TestCase.RepositoryData\bin\Debug\TestCase.Model.dll
+C:\TestCase\TestCase.RepositoryData\bin\Debug\TestCase.Model.pdb
+C:\TestCase\TestCase.RepositoryData\bin\Debug\TestCase.Model.dll.config

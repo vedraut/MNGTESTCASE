@@ -1,0 +1,7 @@
+C:\TestCase\TestCase.Model\bin\Debug\TestCase.Model.dll.config
+C:\TestCase\TestCase.Model\bin\Debug\TestCase.Model.dll
+C:\TestCase\TestCase.Model\bin\Debug\TestCase.Model.pdb
+C:\TestCase\TestCase.Model\obj\Debug\TestCase.Model.csproj.AssemblyReference.cache
+C:\TestCase\TestCase.Model\obj\Debug\TestCase.Model.csproj.CoreCompileInputs.cache
+C:\TestCase\TestCase.Model\obj\Debug\TestCase.Model.dll
+C:\TestCase\TestCase.Model\obj\Debug\TestCase.Model.pdb

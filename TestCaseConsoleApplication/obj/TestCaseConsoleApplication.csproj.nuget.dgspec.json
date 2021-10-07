@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TestCase\\TestCaseConsoleApplication\\TestCaseConsoleApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\TestCase\\TestCase.Business\\TestCase.Business.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\TestCase\\TestCase.Business\\TestCase.Business.csproj",
+        "projectName": "TestCase.Business",
+        "projectPath": "C:\\TestCase\\TestCase.Business\\TestCase.Business.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj": {
+                "projectPath": "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj"
+              },
+              "C:\\TestCase\\TestCase.RepositoryData\\TestCase.RepositoryData.csproj": {
+                "projectPath": "C:\\TestCase\\TestCase.RepositoryData\\TestCase.RepositoryData.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj",
+        "projectName": "TestCase.Model",
+        "projectPath": "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\TestCase\\TestCase.RepositoryData\\TestCase.RepositoryData.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\TestCase\\TestCase.RepositoryData\\TestCase.RepositoryData.csproj",
+        "projectName": "TestCase.RepositoryData",
+        "projectPath": "C:\\TestCase\\TestCase.RepositoryData\\TestCase.RepositoryData.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj": {
+                "projectPath": "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\TestCase\\TestCaseConsoleApplication\\TestCaseConsoleApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TestCase\\TestCaseConsoleApplication\\TestCaseConsoleApplication.csproj",
+        "projectName": "TestCaseConsoleApplication",
+        "projectPath": "C:\\TestCase\\TestCaseConsoleApplication\\TestCaseConsoleApplication.csproj",
+        "packagesPath": "C:\\Users\\Ved\\.nuget\\packages\\",
+        "outputPath": "C:\\TestCase\\TestCaseConsoleApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ved\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\TestCase\\TestCase.Business\\TestCase.Business.csproj": {
+                "projectPath": "C:\\TestCase\\TestCase.Business\\TestCase.Business.csproj"
+              },
+              "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj": {
+                "projectPath": "C:\\TestCase\\TestCase.Model\\TestCase.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

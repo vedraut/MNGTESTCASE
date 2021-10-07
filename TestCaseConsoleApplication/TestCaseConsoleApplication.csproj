@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestCase.Business\TestCase.Business.csproj" />
+    <ProjectReference Include="..\TestCase.Model\TestCase.Model.csproj" />
+  </ItemGroup>
+
+</Project>

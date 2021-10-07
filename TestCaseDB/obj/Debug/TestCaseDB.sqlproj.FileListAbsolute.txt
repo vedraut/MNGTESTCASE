@@ -1,0 +1,6 @@
+C:\TestCase\TestCaseDB\bin\Debug\TestCaseDB.dacpac
+C:\TestCase\TestCaseDB\bin\Debug\TestCaseDB.dll
+C:\TestCase\TestCaseDB\bin\Debug\TestCaseDB.pdb
+C:\TestCase\TestCaseDB\obj\Debug\TestCaseDB.dll
+C:\TestCase\TestCaseDB\obj\Debug\TestCaseDB.pdb
+C:\TestCase\TestCaseDB\obj\Debug\TestCaseDB.sqlproj.AssemblyReference.cache

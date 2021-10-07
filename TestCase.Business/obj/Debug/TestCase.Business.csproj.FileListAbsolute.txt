@@ -1,0 +1,13 @@
+C:\TestCase\TestCase.Business\obj\Debug\TestCase.Business.csproj.CoreCompileInputs.cache
+C:\TestCase\TestCase.Business\obj\Debug\TestCase.Business.csproj.AssemblyReference.cache
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.Business.dll.config
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.Business.dll
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.Business.pdb
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.Model.dll
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.Model.pdb
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.Model.dll.config
+C:\TestCase\TestCase.Business\obj\Debug\TestCase.Business.dll
+C:\TestCase\TestCase.Business\obj\Debug\TestCase.Business.pdb
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.RepositoryData.dll
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.RepositoryData.pdb
+C:\TestCase\TestCase.Business\bin\Debug\TestCase.RepositoryData.dll.config
