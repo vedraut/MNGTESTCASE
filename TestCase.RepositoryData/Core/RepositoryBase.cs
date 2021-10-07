@@ -4,12 +4,10 @@ using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
-using System.Threading.Tasks;
 namespace TestCase.RepositoryData.Core
 {
     public abstract class RepositoryBase : IDisposable
     {
-        private readonly object _mutex = new object();
         protected SqlConnection Connection;
         protected SqlConnection MultipleActiveResultSetConnection;
         protected RepositoryBase()
